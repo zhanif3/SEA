@@ -9,6 +9,8 @@ To get started, you should have **Python 2.7**. To prepare the tool, the officia
 After it finishes compiling, SEA is ready to be used. You can test SEA analyzing the converted code of the [first example](http://community.corest.com/~gera/InsecureProgramming/stack1.html) of Gera's Insecure Programming:
 
     ./SEA.py tests/reil/stack1_gcc.reil
+    
+The **complete analysis** of this example can be found [here](https://github.com/neuromancer/SEA/wiki/Warming-up-on-stack---1).
 
 ### There is always a catch..
 
