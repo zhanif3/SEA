@@ -1,6 +1,6 @@
 ### Description
 
-"Symbolic Exploit Assistant" ( **SEA** ) is a small tool designed to assist the discovery and construction of exploits in binary programs. This tool is developed in colaboration between the research institutes [CIFASIS](http://www.cifasis-conicet.gov.ar/) (Rosario, Argentina) and [VERIMAG](http://www-verimag.imag.fr) (Grenoble, France) in an effort to improve security in binary programs.
+"Symbolic Exploit Assistant" ( **SEA** ) is a small tool designed to assist the discovery and construction of exploits in binary programs. SEA is open source (GPL3) and is developed in colaboration between the research institutes [CIFASIS](http://www.cifasis-conicet.gov.ar/) (Rosario, Argentina) and [VERIMAG](http://www-verimag.imag.fr) (Grenoble, France) in an effort to improve security in binary programs.
 
 ### Quick Start
 
